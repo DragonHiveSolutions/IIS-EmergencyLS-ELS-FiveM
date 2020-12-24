@@ -1,6 +1,4 @@
-# [Imgur](https://i.imgur.com/fuFCZLp.png) **Emergency Lighting System!**
-
-<img src="https://infimpsolutions.com/wp-content/uploads/2020/11/els.png" width="75" height="75" />
+# <img src="https://infimpsolutions.com/wp-content/uploads/2020/11/els.png" width="75" height="75" /> **Emergency Lighting System!**
 
 ### Description
 
