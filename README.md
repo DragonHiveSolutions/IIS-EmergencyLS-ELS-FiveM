@@ -1,6 +1,6 @@
 # [Imgur](https://i.imgur.com/fuFCZLp.png) **Emergency Lighting System!**
 
-<img src="https://i.imgur.com/fuFCZLp.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://infimpsolutions.com/wp-content/uploads/2020/11/els.png" width="75" height="75" />
 
 ### Description
 
