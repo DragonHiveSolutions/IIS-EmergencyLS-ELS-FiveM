@@ -24,4 +24,4 @@ The server-side element restricts controls to the driver and allows the driver t
 ## Video Demonstration (+ Install)
 https://www.youtube.com/watch?v=MZnO9eIjFWA&t=54s
 
-# **All instructions for install and use are included in the readme file included with the download :slight_smile:** 
+# **All instructions for install and use are included in the readme file included with the download :)** 
