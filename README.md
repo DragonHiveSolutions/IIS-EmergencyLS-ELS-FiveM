@@ -1,4 +1,4 @@
-# <img src="https://infimpsolutions.com/wp-content/uploads/2020/11/els.png" width="25" height="25" /> **Emergency Lighting System!**
+# <img src="https://infimpsolutions.com/wp-content/uploads/2020/11/els.png" width="35" height="35" /> **Emergency Lighting System!**
 
 ### Description
 
