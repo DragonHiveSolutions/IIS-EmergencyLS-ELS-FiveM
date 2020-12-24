@@ -1,4 +1,4 @@
-# ![els|75x75](upload://qNL5QTILif0QnHWPi1XZmhgaCVT.png) **Emergency Lighting System!**
+# ![](https://infimpsolutions.com/wp-content/uploads/2020/11/els.png =75x75) **Emergency Lighting System!**
 
 ### Description
 
@@ -10,7 +10,6 @@ The server-side element restricts controls to the driver and allows the driver t
 ### Features
 
 
-[details="Click for Features"]
 * Configuration File
 * Multiple Stage Lighting Activation
 * Developer Configuration
@@ -21,7 +20,6 @@ The server-side element restricts controls to the driver and allows the driver t
 * Siren Beeps
 * ELS Beeps
 * Indicators
-[/details]
 
 ## Video Demonstration (+ Install)
 https://www.youtube.com/watch?v=MZnO9eIjFWA&t=54s
