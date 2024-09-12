@@ -1,4 +1,6 @@
-# <img src="https://infimpsolutions.com/wp-content/uploads/2020/11/els.png" width="35" height="35" /> **Emergency Lighting System!**
+**DEPRACATED - Emergency Lighting System!**
+
+**THIS IS DEPRECATED - PLEASE SEE THE NEW VERSION OVER AT https://fivem.dragonhive.co.uk**
 
 ### Description
 
